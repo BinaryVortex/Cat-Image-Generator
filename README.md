@@ -4,7 +4,7 @@ Cat Image Generator built using HTML, CSS, and JavaScript.
 
 ## Overview
 
-A small, client-side web project that generates random cat images (or displays provided cat images) using plain HTML, CSS, and JavaScript. This repository is ideal as a learning project for beginners who want to practice DOM manipulation, asynchronous image loading, and simple UI design.
+A small, client-side web project that generates random cat images (or displays provided cat images) using plain HTML, CSS, and JavaScript. This repository is ideal as a learning project for beginners.
 
 ## Features
 
@@ -19,6 +19,10 @@ A small, client-side web project that generates random cat images (or displays p
 - `style.css` — Styling
 - `script.js` — JavaScript logic for generating/displaying images
 - `Screenshot 2024-05-06 012928.png` — Screenshot used in this README
+
+## Screenshot
+
+![App screenshot](Screenshot%202024-05-06%20012928.png)
 
 ## How to use
 
